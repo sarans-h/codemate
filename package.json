@@ -1,0 +1,17 @@
+{
+  "name": "codemate-assignment",
+  "version": "1.0.0",
+  "description": "This project leverages an open-source LLM (3B–7B) to interpret user queries, break them into tasks, and return a structured sequence of function calls. It includes:\r - A function library (~50 functions)\r - LLM integration\r - A pipeline for mapping queries to function call sequences",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.10.0",
+    "node-fetch": "^2.7.0"
+  }
+}
