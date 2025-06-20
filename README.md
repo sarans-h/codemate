@@ -160,6 +160,6 @@ You can add any of these as new tools by following the steps in the "Adding New 
 - All tool actions are logged in the terminal with a clear, color-coded summary.
 - The project is modular: add new tools in the `tools/` directory and register them in `functionLibrary.js`.
 - For LLM and tool-calling, you need a valid OpenRouter API key in `config.js`.
-
+-saransh
 
 
